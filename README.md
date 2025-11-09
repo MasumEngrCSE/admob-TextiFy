@@ -1,4 +1,4 @@
 ## This site is Created for
-# TextiFy APP
+# TEXTIFY APP
 ## To integration with
 ## Google AdMob Account
